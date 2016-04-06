@@ -4,14 +4,3 @@
 1) This is just a doc nothing more
 
 2) an ok commit
-
-
-
------ NEW branch ----
-
-
-4) new branch stuff
-
-5) more new branch stuff
-
-6) another...
